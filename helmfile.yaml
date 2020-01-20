@@ -1,0 +1,3 @@
+releases:
+  - name: knative
+    chart: ./knative
